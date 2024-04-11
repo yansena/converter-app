@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">CurrencyConverterAp</string>
+    <string name="app_title" translatable="false">The Currency Converter</string>
+    <string name="input_hint" translatable="false">Enter USD:</string>
+    <string name="button_title" translatable="false">Convert to Real</string>
+    <string name="converted_value" translatable="false">R$ 0.00</string>
+</resources>
